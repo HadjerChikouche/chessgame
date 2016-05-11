@@ -1,7 +1,7 @@
-./gradle
-.idea
-./build
-chesshame.iml
+.gradle/
+.idea/
+build/
+chessgame.iml
 gradle/
 gradlew
 gradlew.bat
